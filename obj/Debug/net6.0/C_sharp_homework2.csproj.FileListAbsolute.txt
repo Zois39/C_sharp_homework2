@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\obj\Debug\net6.0\C_sharp_homework2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\obj\Debug\net6.0\C_sharp_homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\obj\Debug\net6.0\C_sharp_homework2.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\obj\Debug\net6.0\C_sharp_homework2.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\obj\Debug\net6.0\C_sharp_homework2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\bin\Debug\net6.0\C_sharp_homework2.exe
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\bin\Debug\net6.0\C_sharp_homework2.deps.json
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\bin\Debug\net6.0\C_sharp_homework2.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\bin\Debug\net6.0\C_sharp_homework2.dll
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\bin\Debug\net6.0\C_sharp_homework2.pdb
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\obj\Debug\net6.0\C_sharp_homework2.dll
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\obj\Debug\net6.0\refint\C_sharp_homework2.dll
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\obj\Debug\net6.0\C_sharp_homework2.pdb
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\obj\Debug\net6.0\C_sharp_homework2.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C_sharp_homework\C_sharp_homework2\obj\Debug\net6.0\ref\C_sharp_homework2.dll
