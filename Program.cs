@@ -15,7 +15,8 @@ void showSecondDigit(int number)
 }
 
 Console.Write("Input 3-digit number: ");
-showSecondDigit(Math.Abs(Convert.ToInt32(Console.ReadLine())));
+int number = Convert.ToInt32(Console.ReadLine());
+showSecondDigit(Math.Abs(number));
 */
 
 // Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
@@ -34,7 +35,8 @@ void showThirdDigit (int number)
     }
 }
 Console.Write("Input number: ");
-showThirdDigit(Math.Abs(Convert.ToInt32(Console.ReadLine())));
+int number = Convert.ToInt32(Console.ReadLine());
+showThirdDigit(Math.Abs(number));
 */
 
 // Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
@@ -46,7 +48,8 @@ bool weekend (int number)
 }
 
 Console.Write("Input day of the week: ");
-Console.WriteLine(weekend(Convert.ToInt32(Console.ReadLine())));
+int number = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(weekend(number));
 */
 
 
