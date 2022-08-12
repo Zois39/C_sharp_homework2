@@ -3,7 +3,7 @@
 
 /*
 Console.Write("Input 3-digit number: ");
-int number = Convert.ToInt32(Console.ReadLine());
+int number = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 int result;
 if (number > 99 && number < 1000)
 {
